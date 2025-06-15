@@ -1,0 +1,3 @@
+- Create View for the round orders (view, create)
+- path-veiw: resources/views/round-orders/index.blade.php
+- path-creat: resources/views/round-orders/form.plade.php
